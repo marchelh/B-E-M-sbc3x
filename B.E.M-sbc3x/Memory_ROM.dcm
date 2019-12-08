@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DM74S571
+D Tri-state PROM
+$ENDCMP
+#
+$CMP XC18V01SO20
+F xilinx/xc18v00proms.pdf
+$ENDCMP
+#
+$CMP XCF08P
+D Platform Flash In-System PROM
+K PROM FLASH
+F https://www.xilinx.com/support/documentation/data_sheets/ds123.pdf
+$ENDCMP
+#
+#End Doc Library
