@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CD4060BCN
+D 14-stage binary ripple counter, DIP-16
+K binary counter
+F https://assets.nexperia.com/documents/data-sheet/74HC4024.pdf
+$ENDCMP
+#
 #End Doc Library

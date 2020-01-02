@@ -1,6 +1,4 @@
 (sym_lib_table
-  (lib (name Local)(type Legacy)(uri /home/mhooijboer/Sources/B.E.M-sbc3x/B.E.M-sbc3x/Memory_RAM.lib)(options "")(descr ""))
   (lib (name B.E.M-sbc3x-cache)(type Legacy)(uri ${KIPRJMOD}/B.E.M-sbc3x-cache.lib)(options "")(descr ""))
-  (lib (name B.E.M-sbc3x-rescue)(type Legacy)(uri ${KIPRJMOD}/B.E.M-sbc3x-rescue.lib)(options "")(descr ""))
   (lib (name B.E.M-sbc3x)(type Legacy)(uri ${KIPRJMOD}/B.E.M-sbc3x.lib)(options "")(descr ""))
 )
